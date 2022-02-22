@@ -1,7 +1,8 @@
 # Setup of new M1 Mac - Cheat Sheet
 
 1. Connect with Apple ID & sync iCloud data
-2. Install software
+2. Change resolution of display → preferences
+3. Install software
    1. Xcode → after installation run at least once
    2. iTerm2
    3. Homebrew (https://stackoverflow.com/a/67271753)
