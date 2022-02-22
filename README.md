@@ -13,7 +13,8 @@
    5. zsh: `brew install zsh`
    6. oh-my-zsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` (https://github.com/ohmyzsh/ohmyzsh)
        * Configure its themes https://github.com/ohmyzsh/ohmyzsh/wiki/Themes (Agnoster is my go-to choice)
-       * Modify `~/.zshrc` & run `source ~/.zshrc`
+       * Modify `~/.zshrc`
+       * Run `source ~/.zshrc`
        * Install required fonts & amend settings in iTerm2
    7. Sourcetree (https://www.sourcetreeapp.com/)
    8. Alfred (https://www.alfredapp.com/)
@@ -24,7 +25,8 @@
    11. Microsoft Office Suite (App Store)
    12. Visual Studio Code (https://code.visualstudio.com/docs/setup/mac)
    13. Java: `brew install openjdk`
-   14. Telegram, Signal, Spotify & WhatsApp: 
+   14. Mail program of your liking, e.g. Thunderbird (`brew install --cask thunderbird`) or Spark (App Store)
+   15. Telegram, Signal, Spotify & WhatsApp: 
    ```
    brew install --cask telegram
    brew install --cask signal
